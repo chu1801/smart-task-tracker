@@ -1,0 +1,19 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+.env
+
+# Git
+.git
+.gitignore
+
+# VS Code
+.vscode/
+
+# OS junk
+.DS_Store
+Thumbs.db
